@@ -106,7 +106,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=GGCDDNYY
 
 [Document5]
 DocumentPath=OUTJOB\UU004_UUDMA.OutJob
@@ -174,7 +174,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=RYQYBWDC
 
 [Document9]
 DocumentPath=..\..\..\UUEKM_LIB\UUSymbol.SchLib
@@ -194,24 +194,24 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Parameter1]
-Name=PCB_Name
-Value=UU_Monitoring_RS485
+Name=PCB_Rev
+Value=A
 
 [Parameter2]
 Name=PCB_PN
-Value=UU002
+Value=UU004
 
 [Parameter3]
-Name=PCB_Rev
-Value=A1
+Name=PCB_Name
+Value=UUDMA
 
 [Parameter4]
-Name=PCBA_PN
-Value=UU002
+Name=PCBA_Rev
+Value=A
 
 [Parameter5]
-Name=PCBA_Rev
-Value=A1
+Name=PCBA_PN
+Value=UU004
 
 [Configuration1]
 Name=Sources
