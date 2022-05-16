@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=0_Overview.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=0_Overview.SchDoc|Designator=MainControl|SchDesignator=MainControl|FileName=1_Power_Connector.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=1_Power_Connector.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=0_Overview.SchDoc|Designator=MCU|SchDesignator=MCU|FileName=2_MCU.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=2_MCU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

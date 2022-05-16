@@ -1,0 +1,16 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=UU001_UUControl\UU001_UUControl.PrjPcb
+[Project2]
+ProjectPath=UU002_UUMonitoring_RS485\UU002_UUMonitoring_RS485.PrjPcb
+[Project3]
+ProjectPath=UU003_UUViewer\UU003_UUViewer.PrjPcb
+[Project4]
+ProjectPath=UU004_UUDMA\UU004_UUDMA.PrjPcb
+[Project5]
+ProjectPath=UU101_UUControl_MainBoard\UU101_UUControl_MainBoard.PrjPcb
+[Project6]
+ProjectPath=UU111_UUControl_CPUBoard\UU111_UUControl_CPUBoard.PrjPcb
+[Project7]
+ProjectPath=UU121_WiFi\UU121_WiFi.PrjPcb
