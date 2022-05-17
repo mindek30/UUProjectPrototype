@@ -1,6 +1,0 @@
-{
-    "files.associations": {
-        "usb_device.h": "c",
-        "ekm_buffer.h": "c"
-    }
-}
