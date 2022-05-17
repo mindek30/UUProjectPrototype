@@ -1,0 +1,281 @@
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 15 0.492126 0.7874016 90 N D202 BPX_61 ;0=2,1=0.0000
+PRP Manufacturer 'OSRAM Opto Semiconductors Inc.'
+PRP PackageReference ''
+PRP PartID '475-1350-ND'
+PRP PartNumber 'BPX 61'
+PRP Value 'BPX 61'
+PRP Value2 ''
+PRP Value3 ''
+TOP 0 0.492126 0.6874016 90 N 37 7 D202-A
+TOP 1 0.492126 0.8874016 90 N 5 0 D202-C
+#
+# CMP 1
+CMP 16 0.1984251 1.0673228 180 N TP220 empty_part_name ;0=1,1=0.0000
+PRP Manufacturer ''
+PRP PackageReference ''
+PRP PartID ''
+PRP PartNumber ''
+PRP Revision ''
+PRP Value ''
+PRP Value2 ''
+PRP Value3 ''
+TOP 0 0.1984251 1.0673228 0 N 19 0 TP220-1
+#
+# CMP 2
+CMP 16 0.7870079 1.373622 180 N TP219 empty_part_name ;0=1,1=0.0000
+PRP Manufacturer ''
+PRP PackageReference ''
+PRP PartID ''
+PRP PartNumber ''
+PRP Revision ''
+PRP Value ''
+PRP Value2 ''
+PRP Value3 ''
+TOP 0 0.7870079 1.373622 0 N 8 0 TP219-1
+#
+# CMP 3
+CMP 16 0.2011811 1.2751969 180 N TP217 empty_part_name ;0=1,1=0.0000
+PRP Manufacturer ''
+PRP PackageReference ''
+PRP PartID ''
+PRP PartNumber ''
+PRP Revision ''
+PRP Value ''
+PRP Value2 ''
+PRP Value3 ''
+TOP 0 0.2011811 1.2751969 0 N 9 0 TP217-1
+#
+# CMP 4
+CMP 16 0.346327 0.401943 270 N TP211 empty_part_name ;0=1,1=0.0000
+PRP Manufacturer ''
+PRP PackageReference ''
+PRP PartID ''
+PRP PartNumber ''
+PRP Revision ''
+PRP Value ''
+PRP Value2 ''
+PRP Value3 ''
+TOP 0 0.346327 0.401943 270 N 10 0 TP211-1
+#
+# CMP 5
+CMP 16 0.4485447 1.3140348 180 N TP208 empty_part_name ;0=1,1=0.0000
+PRP Manufacturer ''
+PRP PackageReference ''
+PRP PartID ''
+PRP PartNumber ''
+PRP Revision ''
+PRP Value ''
+PRP Value2 ''
+PRP Value3 ''
+TOP 0 0.4485447 1.3140348 0 N 25 0 TP208-1
+#
+# CMP 6
+CMP 16 0.5923089 1.4516629 0 N TP222 empty_part_name ;0=1,1=0.0000
+PRP Manufacturer ''
+PRP PackageReference ''
+PRP PartID ''
+PRP PartNumber ''
+PRP Revision ''
+PRP Value ''
+PRP Value2 ''
+PRP Value3 ''
+TOP 0 0.5923089 1.4516629 180 N 39 0 TP222-1
+#
+# CMP 7
+CMP 16 0.5923089 1.3386707 0 N TP221 empty_part_name ;0=1,1=0.0000
+PRP Manufacturer ''
+PRP PackageReference ''
+PRP PartID ''
+PRP PartNumber ''
+PRP Revision ''
+PRP Value ''
+PRP Value2 ''
+PRP Value3 ''
+TOP 0 0.5923089 1.3386707 180 N 40 0 TP221-1
+#
+# CMP 8
+CMP 16 0.8062992 0.811811 90 N TP223 empty_part_name ;0=1,1=0.0000
+PRP Manufacturer ''
+PRP PackageReference ''
+PRP PartID ''
+PRP PartNumber ''
+PRP Revision ''
+PRP Value ''
+PRP Value2 ''
+PRP Value3 ''
+TOP 0 0.8062992 0.811811 90 N 3 0 TP223-1
+#
+# CMP 9
+CMP 16 0.1197128 0.9544446 90 N TP218 empty_part_name ;0=1,1=0.0000
+PRP Manufacturer ''
+PRP PackageReference ''
+PRP PartID ''
+PRP PartNumber ''
+PRP Revision ''
+PRP Value ''
+PRP Value2 ''
+PRP Value3 ''
+TOP 0 0.1197128 0.9544446 90 N 41 0 TP218-1
+#
+# CMP 10
+CMP 16 0.3322835 0.9976378 0 N TP216 empty_part_name ;0=1,1=0.0000
+PRP Manufacturer ''
+PRP PackageReference ''
+PRP PartID ''
+PRP PartNumber ''
+PRP Revision ''
+PRP Value ''
+PRP Value2 ''
+PRP Value3 ''
+TOP 0 0.3322835 0.9976378 180 N 22 0 TP216-1
+#
+# CMP 11
+CMP 16 0.1197128 1.1126851 90 N TP215 empty_part_name ;0=1,1=0.0000
+PRP Manufacturer ''
+PRP PackageReference ''
+PRP PartID ''
+PRP PartNumber ''
+PRP Revision ''
+PRP Value ''
+PRP Value2 ''
+PRP Value3 ''
+TOP 0 0.1197128 1.1126851 90 N 31 0 TP215-1
+#
+# CMP 12
+CMP 16 0.4014172 0.9973551 0 N TP214 empty_part_name ;0=1,1=0.0000
+PRP Manufacturer ''
+PRP PackageReference ''
+PRP PartID ''
+PRP PartNumber ''
+PRP Revision ''
+PRP Value ''
+PRP Value2 ''
+PRP Value3 ''
+TOP 0 0.4014172 0.9973551 180 N 23 0 TP214-1
+#
+# CMP 13
+CMP 16 0.1197128 1.0325477 90 N TP213 empty_part_name ;0=1,1=0.0000
+PRP Manufacturer ''
+PRP PackageReference ''
+PRP PartID ''
+PRP PartNumber ''
+PRP Revision ''
+PRP Value ''
+PRP Value2 ''
+PRP Value3 ''
+TOP 0 0.1197128 1.0325477 90 N 33 0 TP213-1
+#
+# CMP 14
+CMP 16 0.1197128 1.1928225 90 N TP212 empty_part_name ;0=1,1=0.0000
+PRP Manufacturer ''
+PRP PackageReference ''
+PRP PartID ''
+PRP PartNumber ''
+PRP Revision ''
+PRP Value ''
+PRP Value2 ''
+PRP Value3 ''
+TOP 0 0.1197128 1.1928225 90 N 34 0 TP212-1
+#
+# CMP 15
+CMP 16 0.0395754 1.1126851 90 N TP210 empty_part_name ;0=1,1=0.0000
+PRP Manufacturer ''
+PRP PackageReference ''
+PRP PartID ''
+PRP PartNumber ''
+PRP Revision ''
+PRP Value ''
+PRP Value2 ''
+PRP Value3 ''
+TOP 0 0.0395754 1.1126851 90 N 35 0 TP210-1
+#
+# CMP 16
+CMP 16 0.0395754 1.1928225 90 N TP209 empty_part_name ;0=1,1=0.0000
+PRP Manufacturer ''
+PRP PackageReference ''
+PRP PartID ''
+PRP PartNumber ''
+PRP Revision ''
+PRP Value ''
+PRP Value2 ''
+PRP Value3 ''
+TOP 0 0.0395754 1.1928225 90 N 32 0 TP209-1
+#
+# CMP 17
+CMP 16 0.0395754 1.0325477 270 N TP206 empty_part_name ;0=1,1=0.0000
+PRP Manufacturer ''
+PRP PackageReference ''
+PRP PartID ''
+PRP PartNumber ''
+PRP Revision ''
+PRP Value ''
+PRP Value2 ''
+PRP Value3 ''
+TOP 0 0.0395754 1.0325477 270 N 37 8 TP206-1
+#
+# CMP 18
+CMP 16 0.1251968 0.7826772 180 N TP205 empty_part_name ;0=1,1=0.0000
+PRP Manufacturer ''
+PRP PackageReference ''
+PRP PartID ''
+PRP PartNumber ''
+PRP Revision ''
+PRP Value ''
+PRP Value2 ''
+PRP Value3 ''
+TOP 0 0.1251968 0.7826772 0 N 27 0 TP205-1
+#
+# CMP 19
+CMP 16 0.0484251 0.7838583 180 N TP204 empty_part_name ;0=1,1=0.0000
+PRP Manufacturer ''
+PRP PackageReference ''
+PRP PartID ''
+PRP PartNumber ''
+PRP Revision ''
+PRP Value ''
+PRP Value2 ''
+PRP Value3 ''
+TOP 0 0.0484251 0.7838583 0 N 26 0 TP204-1
+#
+# CMP 20
+CMP 16 0.086811 0.7212598 180 N TP203 empty_part_name ;0=1,1=0.0000
+PRP Manufacturer ''
+PRP PackageReference ''
+PRP PartID ''
+PRP PartNumber ''
+PRP Revision ''
+PRP Value ''
+PRP Value2 ''
+PRP Value3 ''
+TOP 0 0.086811 0.7212598 0 N 24 0 TP203-1
+#
+# CMP 21
+CMP 16 0.0395754 0.9544446 270 N TP201 empty_part_name ;0=1,1=0.0000
+PRP Manufacturer ''
+PRP PackageReference ''
+PRP PartID ''
+PRP PartNumber ''
+PRP Revision ''
+PRP Value ''
+PRP Value2 ''
+PRP Value3 ''
+TOP 0 0.0395754 0.9544446 270 N 38 1 TP201-1
+#
+# CMP 22
+CMP 1 0.8826772 1.1629921 0 N FID1 FIDUCIAL ;0=1,1=0.0000
+PRP Manufacturer 'mindek30@gmail.com'
+PRP PackageReference 'Non SE'
+PRP PartID 'A1'
+PRP PartNumber 'UST001_A1'
+PRP Value 'Non SE'
+PRP Value2 'Non SE'
+PRP Value3 'Non SE'
+TOP 0 0.8826772 1.1629921 180 N 0 0 FID1-empty-1
+#
