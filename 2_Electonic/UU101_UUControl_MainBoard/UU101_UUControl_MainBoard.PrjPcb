@@ -31,7 +31,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
-OutputPath=
+OutputPath=Project Outputs for UU101_UUControl_MainBoard
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -160,7 +160,7 @@ GenerateClassCluster=0
 DocumentUniqueId=SRIGHPDW
 
 [Document8]
-DocumentPath=PCB\UU001_UUControl_MainBoard.PcbDoc
+DocumentPath=PCB\UU101_UUControl_MainBoard.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -177,7 +177,7 @@ GenerateClassCluster=0
 DocumentUniqueId=GGCDDNYY
 
 [Document9]
-DocumentPath=DRF\UU001_UUControl_MainBoard_Assembly.PCBDwf
+DocumentPath=DRF\UU101_UUControl_MainBoard_Assembly.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -194,7 +194,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document10]
-DocumentPath=DRF\UU001_UUControl_MainBoard_Fabication.PCBDwf
+DocumentPath=DRF\UU101_UUControl_MainBoard_Fabication.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -259,27 +259,367 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=DPBZKJTF
+
+[GeneratedDocument1]
+DocumentPath=OUTJOB\MFG\Assembly\BOM\BOM UU101-B_UU Control Board Mainboard.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=.\OUTJOB\DesignData\ODB\odb\steps\pcb\layers\comp_+_bot\components
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=.\OUTJOB\DesignData\ODB\odb\steps\pcb\layers\comp_+_top\components
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=.\OUTJOB\MFG\Fabrication\ODB\odb\steps\pcb\layers\comp_+_bot\components
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=.\OUTJOB\MFG\Fabrication\ODB\odb\steps\pcb\layers\comp_+_top\components
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=.\OUTJOB\DesignData\ODB\odb\steps\pcb\eda\data
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=.\OUTJOB\MFG\Fabrication\ODB\odb\steps\pcb\eda\data
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=.\OUTJOB\DesignData\DRC\DRC UU101-B_UU Control Board Mainboard.html
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=.\OUTJOB\DesignData\ExportSTEP\ExportSTEP UU101-B_UU Control Board Mainboard.step
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=.\OUTJOB\DesignData\ODB\odb\steps\pcb\layers\bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=.\OUTJOB\DesignData\ODB\odb\steps\pcb\layers\bottom_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=.\OUTJOB\DesignData\ODB\odb\steps\pcb\layers\bottom_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=.\OUTJOB\DesignData\ODB\odb\steps\pcb\layers\bottom_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=.\OUTJOB\DesignData\ODB\odb\steps\pcb\layers\comp_+_bot\features
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=.\OUTJOB\DesignData\ODB\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=.\OUTJOB\DesignData\ODB\odb\steps\pcb\layers\core\features
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=.\OUTJOB\DesignData\ODB\odb\steps\pcb\layers\dielectric_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=.\OUTJOB\DesignData\ODB\odb\steps\pcb\layers\dielectric_2\features
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=.\OUTJOB\DesignData\ODB\odb\steps\pcb\layers\drill_drawing_top-bottom\features
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=.\OUTJOB\DesignData\ODB\odb\steps\pcb\layers\drill_guide_top-bottom\features
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=.\OUTJOB\DesignData\ODB\odb\steps\pcb\layers\drill_non-plated_bottom-top\features
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=.\OUTJOB\DesignData\ODB\odb\steps\pcb\layers\drill_plated_bottom-top\features
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=.\OUTJOB\DesignData\ODB\odb\steps\pcb\layers\gnd\features
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=.\OUTJOB\DesignData\ODB\odb\steps\pcb\layers\keep-out_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=.\OUTJOB\DesignData\ODB\odb\steps\pcb\layers\pwr\features
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=.\OUTJOB\DesignData\ODB\odb\steps\pcb\layers\top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=.\OUTJOB\DesignData\ODB\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=.\OUTJOB\DesignData\ODB\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=.\OUTJOB\DesignData\ODB\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=.\OUTJOB\MFG\Fabrication\ODB\odb\steps\pcb\layers\bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=.\OUTJOB\MFG\Fabrication\ODB\odb\steps\pcb\layers\bottom_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=.\OUTJOB\MFG\Fabrication\ODB\odb\steps\pcb\layers\bottom_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=.\OUTJOB\MFG\Fabrication\ODB\odb\steps\pcb\layers\bottom_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=.\OUTJOB\MFG\Fabrication\ODB\odb\steps\pcb\layers\comp_+_bot\features
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=.\OUTJOB\MFG\Fabrication\ODB\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=.\OUTJOB\MFG\Fabrication\ODB\odb\steps\pcb\layers\core\features
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=.\OUTJOB\MFG\Fabrication\ODB\odb\steps\pcb\layers\dielectric_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=.\OUTJOB\MFG\Fabrication\ODB\odb\steps\pcb\layers\dielectric_2\features
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=.\OUTJOB\MFG\Fabrication\ODB\odb\steps\pcb\layers\drill_drawing_top-bottom\features
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=.\OUTJOB\MFG\Fabrication\ODB\odb\steps\pcb\layers\drill_guide_top-bottom\features
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=.\OUTJOB\MFG\Fabrication\ODB\odb\steps\pcb\layers\drill_non-plated_bottom-top\features
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=.\OUTJOB\MFG\Fabrication\ODB\odb\steps\pcb\layers\drill_plated_bottom-top\features
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=.\OUTJOB\MFG\Fabrication\ODB\odb\steps\pcb\layers\gnd\features
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=.\OUTJOB\MFG\Fabrication\ODB\odb\steps\pcb\layers\keep-out_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=.\OUTJOB\MFG\Fabrication\ODB\odb\steps\pcb\layers\pwr\features
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=.\OUTJOB\MFG\Fabrication\ODB\odb\steps\pcb\layers\top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=.\OUTJOB\MFG\Fabrication\ODB\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=.\OUTJOB\MFG\Fabrication\ODB\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=.\OUTJOB\MFG\Fabrication\ODB\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=.\OUTJOB\MFG\Fabrication\Gerber\Gerber UU101-B_UU Control Board Mainboard.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=.\OUTJOB\MFG\Fabrication\Gerber\Gerber UU101-B_UU Control Board Mainboard.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=.\OUTJOB\MFG\Fabrication\Gerber\Gerber UU101-B_UU Control Board Mainboard.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=.\OUTJOB\MFG\Fabrication\Gerber\Gerber UU101-B_UU Control Board Mainboard.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=.\OUTJOB\MFG\Fabrication\Gerber\Gerber UU101-B_UU Control Board Mainboard.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=.\OUTJOB\MFG\Fabrication\Gerber\Gerber UU101-B_UU Control Board Mainboard.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument56]
+DocumentPath=.\OUTJOB\MFG\Fabrication\Gerber\Gerber UU101-B_UU Control Board Mainboard.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument57]
+DocumentPath=.\OUTJOB\MFG\Fabrication\Gerber\Gerber UU101-B_UU Control Board Mainboard.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument58]
+DocumentPath=.\OUTJOB\MFG\Fabrication\Gerber\Gerber UU101-B_UU Control Board Mainboard.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument59]
+DocumentPath=.\OUTJOB\MFG\Fabrication\Gerber\Gerber UU101-B_UU Control Board Mainboard.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument60]
+DocumentPath=.\OUTJOB\MFG\Fabrication\Gerber\Gerber UU101-B_UU Control Board Mainboard.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument61]
+DocumentPath=.\OUTJOB\MFG\Fabrication\Gerber\Gerber UU101-B_UU Control Board Mainboard.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument62]
+DocumentPath=.\OUTJOB\MFG\Fabrication\Gerber\Gerber UU101-B_UU Control Board Mainboard.REP
+DItemRevisionGUID=
+
+[GeneratedDocument63]
+DocumentPath=.\OUTJOB\MFG\Fabrication\Gerber\Gerber UU101-B_UU Control Board Mainboard.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument64]
+DocumentPath=.\OUTJOB\DesignData\ODB\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument65]
+DocumentPath=.\OUTJOB\MFG\Fabrication\ODB\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument66]
+DocumentPath=.\OUTJOB\DesignData\MultiWire\MultiWire UU101-B_UU Control Board Mainboard.NET
+DItemRevisionGUID=
+
+[GeneratedDocument67]
+DocumentPath=.\OUTJOB\MFG\Fabrication\NC Drill\NC Drill UU101-B_UU Control Board Mainboard-RoundHoles-NonPlated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument68]
+DocumentPath=.\OUTJOB\MFG\Fabrication\NC Drill\NC Drill UU101-B_UU Control Board Mainboard-RoundHoles-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument69]
+DocumentPath=.\OUTJOB\MFG\Fabrication\NC Drill\NC Drill UU101-B_UU Control Board Mainboard-SlotHoles-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument70]
+DocumentPath=.\OUTJOB\MFG\Fabrication\NC Drill\NC Drill UU101-B_UU Control Board Mainboard.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument71]
+DocumentPath=.\OUTJOB\MFG\Fabrication\NC Drill\NC Drill UU101-B_UU Control Board Mainboard.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument72]
+DocumentPath=.\OUTJOB\DesignData\ODB\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument73]
+DocumentPath=.\OUTJOB\MFG\Fabrication\ODB\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument74]
+DocumentPath=.\OUTJOB\DesignData\ODB\ODB UU101-B_UU Control Board Mainboard.REP
+DItemRevisionGUID=
+
+[GeneratedDocument75]
+DocumentPath=.\OUTJOB\MFG\Fabrication\ODB\ODB UU101-B_UU Control Board Mainboard.REP
+DItemRevisionGUID=
+
+[GeneratedDocument76]
+DocumentPath=.\OUTJOB\MFG\Assembly\Pick Place\Pick Place UU101-B_UU Control Board Mainboard.csv
+DItemRevisionGUID=
+
+[GeneratedDocument77]
+DocumentPath=.\OUTJOB\MFG\Assembly\Pick Place\Pick Place UU101-B_UU Control Board Mainboard.txt
+DItemRevisionGUID=
+
+[GeneratedDocument78]
+DocumentPath=.\OUTJOB\DesignData\ODB\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument79]
+DocumentPath=.\OUTJOB\MFG\Fabrication\ODB\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument80]
+DocumentPath=.\OUTJOB\DesignData\ODB\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument81]
+DocumentPath=.\OUTJOB\MFG\Fabrication\ODB\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument82]
+DocumentPath=.\OUTJOB\DesignData\ODB\odb\steps\pcb\layers\drill_non-plated_bottom-top\tools
+DItemRevisionGUID=
+
+[GeneratedDocument83]
+DocumentPath=.\OUTJOB\DesignData\ODB\odb\steps\pcb\layers\drill_plated_bottom-top\tools
+DItemRevisionGUID=
+
+[GeneratedDocument84]
+DocumentPath=.\OUTJOB\MFG\Fabrication\ODB\odb\steps\pcb\layers\drill_non-plated_bottom-top\tools
+DItemRevisionGUID=
+
+[GeneratedDocument85]
+DocumentPath=.\OUTJOB\MFG\Fabrication\ODB\odb\steps\pcb\layers\drill_plated_bottom-top\tools
+DItemRevisionGUID=
 
 [Parameter1]
-Name=PCB_Name
-Value=UU Control Board Mainboard
-
-[Parameter2]
-Name=PCB_PN
-Value=UU001
-
-[Parameter3]
 Name=PCB_Rev
 Value=B
 
-[Parameter4]
-Name=PCBA_PN
-Value=UU001
+[Parameter2]
+Name=PCB_PN
+Value=UU101
 
-[Parameter5]
+[Parameter3]
+Name=PCB_Name
+Value=UU Control Board Mainboard
+
+[Parameter4]
 Name=PCBA_Rev
 Value=B
+
+[Parameter5]
+Name=PCBA_PN
+Value=UU101
 
 [Configuration1]
 Name=Sources
@@ -292,7 +632,7 @@ ContentTypeGUID=
 ConfigurationType=
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for UU101_UUControl_MainBoard
 
 [OutputGroup1]
 Name=Netlist Outputs
