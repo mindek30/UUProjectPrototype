@@ -157,7 +157,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=DPBZKJTF
 
 [Parameter1]
 Name=PCB_Name
