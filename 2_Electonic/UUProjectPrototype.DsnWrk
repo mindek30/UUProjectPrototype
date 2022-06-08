@@ -11,8 +11,10 @@ ProjectPath=UU004_UUDMA\UU004_UUDMA.PrjPcb
 [Project5]
 ProjectPath=UU005_UUTurbidity\UU005_UUTurbidity.PrjPcb
 [Project6]
-ProjectPath=UU101_UUControl_MainBoard\UU101_UUControl_MainBoard.PrjPcb
+ProjectPath=UU006_UUDisplay\UU006_UUDisplay.PrjPcb
 [Project7]
-ProjectPath=UU111_UUControl_CPUBoard\UU111_UUControl_CPUBoard.PrjPcb
+ProjectPath=UU101_UUControl_MainBoard\UU101_UUControl_MainBoard.PrjPcb
 [Project8]
+ProjectPath=UU111_UUControl_CPUBoard\UU111_UUControl_CPUBoard.PrjPcb
+[Project9]
 ProjectPath=UU121_WiFi\UU121_WiFi.PrjPcb
