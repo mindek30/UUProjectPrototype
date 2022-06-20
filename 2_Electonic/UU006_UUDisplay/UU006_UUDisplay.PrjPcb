@@ -140,7 +140,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=GGCDDNYY
 
 [Document7]
 DocumentPath=DRF\UU006_UUDisplay_Assembly.PCBDwf
@@ -194,24 +194,24 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Parameter1]
-Name=PCB_Name
-Value=UU_Monitoring_RS485
+Name=PCB_Rev
+Value=A0
 
 [Parameter2]
 Name=PCB_PN
-Value=UU002
+Value=UU006
 
 [Parameter3]
-Name=PCB_Rev
-Value=A1
+Name=PCB_Name
+Value=UUDisplay
 
 [Parameter4]
-Name=PCBA_PN
-Value=UU002
+Name=PCBA_Rev
+Value=A0
 
 [Parameter5]
-Name=PCBA_Rev
-Value=A1
+Name=PCBA_PN
+Value=UU006
 
 [Configuration1]
 Name=Sources
